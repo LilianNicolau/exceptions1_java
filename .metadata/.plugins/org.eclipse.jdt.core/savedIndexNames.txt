@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\projetos-java\cap15_exercicio_excecoes\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2642841289.index
+851528089.index
